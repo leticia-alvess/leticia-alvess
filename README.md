@@ -1,6 +1,6 @@
 ### Hi Folks!! 👋
 
-- 🔭 I’m currently working on Citibank SA.
+- 🔭 I recently worked at Citibank SA.
 - 🌱 I’m currently learning a little more about Data Analitcs ❤.
 - 😄 Pronouns: SHE/HER
 

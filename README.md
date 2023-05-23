@@ -1,7 +1,7 @@
 <div align="center"> Hi everyone!! 👋
 
  <br> 🔭 I recently worked at <strong>Citibank SA</strong>.
- <br>🌱 I’m currently learning a little more about <strong>HMTL/CSS</strong> and <strong>JavaScript</strong>.
+ <br>🌱 I’m currently learning a little more about <strong>HTML/CSS</strong> and <strong>JavaScript</strong>.
 <br> 😄 Pronouns: SHE/HER
 
 <br> ✅ Check my lastest project worked on: https://leticia-alvess.github.io/bikcraft/ </div>
